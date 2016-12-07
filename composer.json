@@ -1,8 +1,8 @@
 {
-    "name": "kbsali/redmine-api",
+    "name": "izap/redmine-api",
     "type": "library",
     "description": "Redmine API client",
-    "homepage": "https://github.com/kbsali/php-redmine-api",
+    "homepage": "https://github.com/izap/php-redmine-api",
     "keywords": ["redmine", "api"],
     "license": "MIT",
     "authors": [
@@ -10,6 +10,11 @@
             "name": "Kevin Saliou",
             "email": "kevin@saliou.name",
             "homepage": "http://kevin.saliou.name"
+        },
+        {
+            "name": "Tarun jangra"
+            "email": "tarun.jangra@hotmail.com"
+            "homepage": "http://tarunjangra.com"
         }
     ],
     "require": {
